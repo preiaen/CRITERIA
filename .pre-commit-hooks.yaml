@@ -1,5 +1,0 @@
-id: cidoc-crm-criteria
-name: CRITERIA
-description: The script will create mermaid diagramms for every rdf file found in the specified folder
-entry: pre-commit-criteria
-language: python
