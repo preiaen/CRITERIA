@@ -26,4 +26,3 @@ def process_folder(args):
 if __name__ == '__main__':
 	args = parse_args()
 	process_folder(args)
-	#main(diagramm_type, args.rdf, args.mmd, args.shacl, args.configFile)
