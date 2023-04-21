@@ -1,0 +1,4 @@
+venv
+mmd
+.vscode/launch.json
+*.pyc
